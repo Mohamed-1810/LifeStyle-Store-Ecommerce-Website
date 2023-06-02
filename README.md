@@ -23,4 +23,9 @@ I developed this project using HTML, CSS, Bootstrap, JS for Frontend and PHP, SQ
 **SETTINGS PAGE**
 ![Screenshot (688)](https://github.com/Mohamed-1810/LifeStyle-Store-Ecommerce-Website/assets/99018826/bf60b4c5-2d8a-459f-8cf5-09b16f1f5fa8)
 
+**ORDER CONFIRMED PAGE**
+![Screenshot (689)](https://github.com/Mohamed-1810/LifeStyle-Store-Ecommerce-Website/assets/99018826/21af2914-1514-49f6-8325-b48060941109)
+![Screenshot (690)](https://github.com/Mohamed-1810/LifeStyle-Store-Ecommerce-Website/assets/99018826/d53a970d-2169-4b23-b294-757ad47ded75)
+
+
 
